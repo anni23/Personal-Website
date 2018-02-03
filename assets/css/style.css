@@ -690,64 +690,6 @@ h4.test{
 
 
 
-
-.home-bg1 .workex .ril img
-{
-    position:absolute;
-    width:300px;
-    height:620px;
-    padding-left:120px;
-    padding-top:500px;
-}
-
-.home-bg1 .workex .mortara img
-{
-    position:absolute;
-    width:300px;
-    height:380px;
-    padding-left:130px;
-    padding-top:180px;
-}
-
-
-.home-bg1 .workex .barc img
-{
-    position:absolute;
-    padding-left:120px;
-    padding-top:730px;
-
-}
-
-.home-bg1 .workex .mortara .text 
-{
-    position:absolute;
-    padding-left:450px;
-    padding-top:80px;
-    font-size:25px;
-    color:rgb(61,116,135);
-
-}
-
-.home-bg1 .workex .ril .text 
-{
-    position:absolute;
-    padding-left:450px;
-    padding-top:400px;
-    font-size:25px;
-    color:rgb(61,116,135);
-
-}
-
-.home-bg1 .workex .barc .text 
-{
-    position:absolute;
-    padding-left:450px;
-    padding-top:730px;
-    font-size:25px;
-    color:rgb(61,116,135);
-
-}
-
 .home-bg1 .workex h4 
 {
     font-size:26px;
