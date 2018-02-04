@@ -103,7 +103,7 @@ jQuery(document).ready(function ($) {
         
           
             $(window).scroll(function () {
-                if ($(this).scrollTop() > 500) {
+                if ($(this).scrollTop() > 0) {
                     $('.navbar').fadeIn(500);
                     $('.navbar').addClass('menu-bg');
 
